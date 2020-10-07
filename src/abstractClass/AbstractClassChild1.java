@@ -11,7 +11,7 @@ public class AbstractClassChild1 extends AbstractClassPractice{
 
 	@Override
 	public int test1(int a, int b) {
-		System.out.println("This is test1 method which return int a +b");
+		System.out.println("This is test method which return int a +b");
 		return a+b;
 	}
 
